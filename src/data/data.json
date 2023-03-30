@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Calculus",
+        "desc": "some math",
+        "author":"Anthony Tomba",
+        "img": "book1.jpg"
+    },
+    {
+        "title": "Trigonometry",
+        "desc": "some math",
+        "author": "Mark Dugopolski",
+        "img": "book2.jpg"
+    },
+    {
+        "title": "History",
+        "desc": "some history",
+        "author":"Holt McDougal",
+        "img": "book3.jpg"
+    }
+]
